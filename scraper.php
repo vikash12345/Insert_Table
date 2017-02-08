@@ -79,4 +79,4 @@ foreach ($articles as $article) {
   ));
 }
 ?>
-?>
+
